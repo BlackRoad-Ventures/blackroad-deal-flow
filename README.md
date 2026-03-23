@@ -1,5 +1,13 @@
 # blackroad-deal-flow
 
+> Investment deal flow and due diligence tracker
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Ventures](https://github.com/BlackRoad-Ventures)
+
+---
+
+# blackroad-deal-flow
+
 Investment deal flow and due diligence tracker.
 
 ## Features
